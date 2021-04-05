@@ -1,0 +1,398 @@
+[
+   {
+      "book":{
+         "english":"Genesis",
+         "telugu":"ఆదికాండము"
+      }
+   },
+   {
+      "book":{
+         "english":"Exodus",
+         "telugu":"నిర్గమకాండము"
+      }
+   },
+   {
+      "book":{
+         "english":"Leviticus",
+         "telugu":"లేవీయకాండము"
+      }
+   },
+   {
+      "book":{
+         "english":"Numbers",
+         "telugu":"సంఖ్యాకాండము"
+      }
+   },
+   {
+      "book":{
+         "english":"Deuteronomy",
+         "telugu":"ద్వితీయోపదేశకాండమ"
+      }
+   },
+   {
+      "book":{
+         "english":"Joshua",
+         "telugu":"యెహొషువ"
+      }
+   },
+   {
+      "book":{
+         "english":"Judges",
+         "telugu":"న్యాయాధిపతులు"
+      }
+   },
+   {
+      "book":{
+         "english":"Ruth",
+         "telugu":"రూతు"
+      }
+   },
+   {
+      "book":{
+         "english":"1 Samuel",
+         "telugu":"సమూయేలు మొదటి గ్రంథము"
+      }
+   },
+   {
+      "book":{
+         "english":"2 Samuel",
+         "telugu":"సమూయేలు రెండవ గ్రంథము"
+      }
+   },
+   {
+      "book":{
+         "english":"1 Kings",
+         "telugu":"రాజులు మొదటి గ్రంథము"
+      }
+   },
+   {
+      "book":{
+         "english":"2 Kings",
+         "telugu":"రాజులు రెండవ గ్రంథము"
+      }
+   },
+   {
+      "book":{
+         "english":"1 Chronicles",
+         "telugu":"దినవృత్తాంతములు మొదటి గ్రంథము"
+      }
+   },
+   {
+      "book":{
+         "english":"2 Chronicles",
+         "telugu":"దినవృత్తాంతములు రెండవ గ్రంథము"
+      }
+   },
+   {
+      "book":{
+         "english":"Ezra",
+         "telugu":"ఎజ్రా"
+      }
+   },
+   {
+      "book":{
+         "english":"Nehemiah",
+         "telugu":"నెహెమ్యా"
+      }
+   },
+   {
+      "book":{
+         "english":"Esther",
+         "telugu":"ఎస్తేరు"
+      }
+   },
+   {
+      "book":{
+         "english":"Job",
+         "telugu":"యోబు గ్రంథము"
+      }
+   },
+   {
+      "book":{
+         "english":"Psalms",
+         "telugu":"కీర్తనల గ్రంథము"
+      }
+   },
+   {
+      "book":{
+         "english":"Proverbs",
+         "telugu":"సామెతలు"
+      }
+   },
+   {
+      "book":{
+         "english":"Ecclesiastes",
+         "telugu":"ప్రసంగి"
+      }
+   },
+   {
+      "book":{
+         "english":"Song of Songs",
+         "telugu":"పరమగీతము "
+      }
+   },
+   {
+      "book":{
+         "english":"Isaiah",
+         "telugu":"యెషయా గ్రంథము "
+      }
+   },
+   {
+      "book":{
+         "english":"Jeremiah",
+         "telugu":"యిర్మీయా"
+      }
+   },
+   {
+      "book":{
+         "english":"Lamentations",
+         "telugu":"విలాపవాక్యములు"
+      }
+   },
+   {
+      "book":{
+         "english":"Ezekiel",
+         "telugu":"యెహెజ్కేలు"
+      }
+   },
+   {
+      "book":{
+         "english":"Daniel",
+         "telugu":"దానియేలు"
+      }
+   },
+   {
+      "book":{
+         "english":"Hosea",
+         "telugu":"హొషేయ"
+      }
+   },
+   {
+      "book":{
+         "english":"Joel",
+         "telugu":"యోవేలు"
+      }
+   },
+   {
+      "book":{
+         "english":"Amos",
+         "telugu":"ఆమోసు"
+      }
+   },
+   {
+      "book":{
+         "english":"Obadiah",
+         "telugu":"ఓబద్యా"
+      }
+   },
+   {
+      "book":{
+         "english":"Jonah",
+         "telugu":"యోనా"
+      }
+   },
+   {
+      "book":{
+         "english":"Micah",
+         "telugu":"మీకా "
+      }
+   },
+   {
+      "book":{
+         "english":"Nahum",
+         "telugu":"నహూము"
+      }
+   },
+   {
+      "book":{
+         "english":"Habakkuk",
+         "telugu":"హబక్కూకు"
+      }
+   },
+   {
+      "book":{
+         "english":"Zephaniah",
+         "telugu":"జెఫన్యా"
+      }
+   },
+   {
+      "book":{
+         "english":"Haggai",
+         "telugu":"హగ్గయి"
+      }
+   },
+   {
+      "book":{
+         "english":"Zechariah",
+         "telugu":"జెకర్యా"
+      }
+   },
+   {
+      "book":{
+         "english":"Malachi",
+         "telugu":"మలాకీ"
+      }
+   },
+   {
+      "book":{
+         "english":"Matthew",
+         "telugu":"మత్తయి సువార్త"
+      }
+   },
+   {
+      "book":{
+         "english":"Mark",
+         "telugu":"మార్కు సువార్త"
+      }
+   },
+   {
+      "book":{
+         "english":"Luke",
+         "telugu":"లూకా సువార్త"
+      }
+   },
+   {
+      "book":{
+         "english":"John",
+         "telugu":"యోహాను సువార్త"
+      }
+   },
+   {
+      "book":{
+         "english":"Acts",
+         "telugu":"అపొస్తలుల కార్యములు"
+      }
+   },
+   {
+      "book":{
+         "english":"Romans",
+         "telugu":"రోమీయులకు"
+      }
+   },
+   {
+      "book":{
+         "english":"1 Corinthians",
+         "telugu":"1 కొరింథీయులకు"
+      }
+   },
+   {
+      "book":{
+         "english":"2 Corinthians",
+         "telugu":"2 కొరింథీయులకు"
+      }
+   },
+   {
+      "book":{
+         "english":"Galatians",
+         "telugu":"గలతీయులకు"
+      }
+   },
+   {
+      "book":{
+         "english":"Ephesians",
+         "telugu":"ఎఫెసీయులకు"
+      }
+   },
+   {
+      "book":{
+         "english":"Philippians",
+         "telugu":"ఫిలిప్పీయులకు"
+      }
+   },
+   {
+      "book":{
+         "english":"Colossians",
+         "telugu":"కొలొస్సయులకు"
+      }
+   },
+   {
+      "book":{
+         "english":"1 Thessalonians",
+         "telugu":"1 థెస్సలొనీకయులకు"
+      }
+   },
+   {
+      "book":{
+         "english":"2 Thessalonians",
+         "telugu":"2 థెస్సలొనీకయులకు"
+      }
+   },
+   {
+      "book":{
+         "english":"1 Timothy",
+         "telugu":"1 తిమోతికి"
+      }
+   },
+   {
+      "book":{
+         "english":"2 Timothy",
+         "telugu":"2 తిమోతికి"
+      }
+   },
+   {
+      "book":{
+         "english":"Titus",
+         "telugu":"తీతుకు"
+      }
+   },
+   {
+      "book":{
+         "english":"Philemon",
+         "telugu":"ఫిలేమోనుకు"
+      }
+   },
+   {
+      "book":{
+         "english":"Hebrews",
+         "telugu":"హెబ్రీయులకు"
+      }
+   },
+   {
+      "book":{
+         "english":"James",
+         "telugu":"యాకోబు"
+      }
+   },
+   {
+      "book":{
+         "english":"1 Peter",
+         "telugu":"1 పేతురు"
+      }
+   },
+   {
+      "book":{
+         "english":"2 Peter",
+         "telugu":"2 పేతురు"
+      }
+   },
+   {
+      "book":{
+         "english":"1 John",
+         "telugu":"1 యోహాను"
+      }
+   },
+   {
+      "book":{
+         "english":"2 John",
+         "telugu":"2 యోహాను"
+      }
+   },
+   {
+      "book":{
+         "english":"3 John",
+         "telugu":"3 యోహాను"
+      }
+   },
+   {
+      "book":{
+         "english":"Jude",
+         "telugu":"యూదా"
+      }
+   },
+   {
+      "book":{
+         "english":"Revelation",
+         "telugu":"ప్రకటన గ్రంథము"
+      }
+   }
+]
